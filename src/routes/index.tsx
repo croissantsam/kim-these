@@ -51,7 +51,7 @@ function Home() {
               <div className="back-section">
                 <h2 className="back-heading">Pot de Thèse</h2>
                 <div className="back-rule" />
-                <p className="back-time">A partir de 19h00</p>
+                <p className="back-time">A partir de 19h30</p>
                 <p className="back-location">
                   Les Rives - 59 Quai Charles Tellier
                 </p>
