@@ -53,7 +53,7 @@ function Home() {
                 <div className="back-rule" />
                 <p className="back-time">A partir de 19h30</p>
                 <p className="back-location">
-                  Les Rives - 59 Quai Charles Tellier
+                  Les Rives - 59 Quai Charles Tellier, Amiens
                 </p>
               </div>
 
