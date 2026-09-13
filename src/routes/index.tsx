@@ -1,7 +1,7 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { useState } from 'react'
 import bloodCellBg from '../blood-image.jpg'
-import microscopeImg from '../microscopenoia.jpg'
+import microscopeImg from '../microscope.png'
 
 export const Route = createFileRoute('/')({ component: Home })
 
