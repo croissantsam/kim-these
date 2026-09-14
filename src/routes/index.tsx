@@ -60,6 +60,7 @@ function Home() {
               <img
                 src={microscopeImg}
                 alt="Microscope"
+
                 className="back-microscope"
               />
             </div>
